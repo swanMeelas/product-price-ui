@@ -12,3 +12,8 @@ Make sure the node js and vue js is installed
 
 
 >**npm install -g @vue/cli**
+
+Access the Gui with the below URLs
+>**http://localhost:8085/**
+
+>**http://localhost:8085/priceCalculator**
